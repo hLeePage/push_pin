@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 ruby '2.2.3'
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
+gem 'devise', '~> 3.5', '>= 3.5.2'
 gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'jbuilder', '~> 2.0'
 gem 'jquery-rails'
