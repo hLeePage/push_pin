@@ -7,11 +7,11 @@ gem 'devise', '~> 3.5', '>= 3.5.2'
 gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'jbuilder', '~> 2.0'
 gem 'jquery-rails'
+gem 'paperclip', '~> 4.3', '>= 4.3.2'
 gem 'pg'
 gem 'rails', '4.2.4'
 gem 'sass-rails', '~> 5.0'
 gem 'simple_form', '~> 3.2'
-gem 'turbolinks'
 gem 'uglifier', '>= 1.3.0'
 
 
